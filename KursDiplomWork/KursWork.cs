@@ -59,6 +59,11 @@ namespace KursDiplomWork
             Department = department_;
         }
 
+        public override void ShowData()
+        {
+          
+        }
+
 
 
 

@@ -43,6 +43,10 @@ namespace KursDiplomWork
             QualificationOfWork = qualificationOfWorkType_;
         }
 
+        public override void ShowData()
+        {
+
+        }
        
     }
 
