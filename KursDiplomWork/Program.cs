@@ -100,7 +100,7 @@ namespace KursDiplomWork
         /// <returns></returns>
         public bool KursWorkInputData()
         {
-
+            return false;
         }
 
         /// <summary>
@@ -109,7 +109,7 @@ namespace KursDiplomWork
         /// <returns></returns>
         public bool DiplomWorkInputData()
         {
-
+            return false;
         }
 
         #endregion
